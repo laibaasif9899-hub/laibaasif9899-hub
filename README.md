@@ -34,8 +34,7 @@
 ---
 ## 🐍 Contribution Snake
 
-![Snake Animation](https://github.com/laibaasif9899-hub/laibaasif9899-hub/blob/output/github-contribution-grid-snake.svg)
-
+![Snake Animation](https://raw.githubusercontent.com/laibaasif9899-hub/laibaasif9899-hub/output/github-contribution-grid-snake.svg)
 ## 📌 Featured Projects
 
 - 🌦️ Weather App
