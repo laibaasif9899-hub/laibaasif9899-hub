@@ -1,16 +1,28 @@
 ## Hi there 👋
+# Hi 👋, I'm Laiba Asif
 
-<!--
-**laibaasif9899-hub/laibaasif9899-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 BS Computer Science Student from Pakistan
 
-Here are some ideas to get you started:
+🌱 Currently learning:
+- JavaScript
+- React
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+- HTML5
+- CSS3
+- Bootstrap
+- JavaScript
+- Git
+- GitHub
+
+## 🚀 Current Goal
+
+Build modern, responsive and animated websites while improving my frontend development skills.
+
+## 📫 Connect with me
+
+- Email: laibaasif9899@gmail.com
+
+
