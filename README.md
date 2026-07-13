@@ -1,34 +1,51 @@
-## Hi there 👋
 # Hi 👋, I'm Laiba Asif
 
-💻 BS Computer Science Student from Pakistan
+💻 **BS Computer Science Student** from Pakistan
 
-🌱 Currently learning:
+🌱 **Currently Learning**
 - JavaScript
 - React
 - Git & GitHub
 
+🚀 **Interested In**
+- Frontend Development
+- Responsive Web Design
+- Modern UI/UX
+- Animated Websites
+
+---
+
 ## 🛠️ Tech Stack
 
-- HTML5
-- CSS3
-- Bootstrap
-- JavaScript
-- Git
-- GitHub
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,git,github,vscode,react" />
+</p>
 
-## 🚀 Current Goal
+---
 
-Build modern, responsive and animated websites while improving my frontend development skills.
-
-## 📫 Connect with me
-
-- Email: laibaasif9899@gmail.com
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=laibaasif9899-hub&show_icons=true&theme=tokyonight)
+![Laiba's GitHub Stats](https://github-readme-stats.vercel.app/api?username=laibaasif9899-hub&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=laibaasif9899-hub&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=laibaasif9899-hub&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=laibaasif9899-hub&theme=tokyonight)
 
+---
+
+## 📌 Featured Projects
+
+- 🌦️ Weather App
+- 🎬 Cinema Website
+- 📚 Book Store Website
+- 🎨 Responsive Landing Pages
+
+---
+
+## 📫 Connect With Me
+
+📧 **Email:** laibaasif9899@gmail.com
+
+---
+
+⭐ Thanks for visiting my profile!
