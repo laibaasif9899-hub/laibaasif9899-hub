@@ -25,9 +25,7 @@
 
 
 
-![Laiba's GitHub Stats](https://github-readme-stats.vercel.app/api?username=laibaasif9899-hub&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=laibaasif9899-hub&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=laibaasif9899-hub&theme=tokyonight)
 
